@@ -1,0 +1,14 @@
+{
+    "name": "Compact Teams",
+    "description": "Microsoft Teams wrapper with compact styling",
+    "version": "0.1",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "pages": [ "html/embed.html" ],
+            "scripts": [ "js/background.js" ]
+        }
+    },
+    "permissions": [ "webview", "fullscreen" ],
+    "icons": { "48": "icon48.png" }
+}
