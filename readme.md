@@ -29,3 +29,7 @@ amount of memory.
 _Disclaimer: The style rules are currently very inflexible (i.e., they use `px` over `%`, `em`, or `rem`). They produce
 sensible results for my font size, display resolution, etc. Feel free to tweak the values to fit your configuration (or contribute
 by making them properly flexible)._
+
+## Known Issues
+- Status indicator bubbles (green for available, red for busy, etc.) are not properly aligned with profile pictures in nested replies.
+- App does not persist settings (e.g., theme selection) across restarts.
