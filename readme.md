@@ -32,4 +32,3 @@ by making them properly flexible)._
 
 ## Known Issues
 - Status indicator bubbles (green for available, red for busy, etc.) are not properly aligned with profile pictures in nested replies.
-- App does not persist settings (e.g., theme selection) across restarts.
